@@ -1,0 +1,18 @@
+{
+    "Agronomy" : ["Agricultural Economics", "Environmental Engineering", "Environmental / Forestry Engineering", "Geoscience & Natural Resources", "Landscape Engineering", "Territorial/Landscape and Heritage Engineering", "Plant Production", "Plant Protection", "Food Science and Technology", "Animal Science and Technology", "Poultry & Cattle Medicine", "Pet Medicine", "Quality Control of Foodstuffs of Animal Origin"],
+    "Dental Medicine" : ["Major4", "Major5", "Major6"],
+    "Economics and Business Administration" : ["Major7", "Major8", "Major9"],
+    "Engineering" : ["Major10", "Major11", "Major12"],
+    "Fine Arts and Architecture" : ["Major13", "Major14", "Major15"],
+    "Information": ["Major16", "Major17", "Major18"],
+    "Law and Political and Administrative Sciences" : ["Major19", "Major20", "Major21"],
+    "Letters and Human Sciences" : ["Major22", "Major23", "Major24"],
+    "Medical Sciences" : ["Major25", "Major26", "Major27"],
+    "Pedagogy" : ["Major28", "Major29", "Major30"],
+    "Pharmacy" : ["Major31", "Major32", "Major33"],
+    "Public Health" : ["Major34", "Major35", "Major36"],
+    "Sciences" : ["Major37", "Major38", "Major39"],
+    "Technology" : ["Major40", "Major41", "Major42"],
+    "Tourism and Hospitality Management" : ["Major43", "Major44", "Major45"],
+    "Institute of Social Science" : ["Major46", "Major47", "Major48"]
+}
